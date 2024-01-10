@@ -1,3 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+	/*para a animação de rolagem ficar suave*/
+}
+
 .men{
     background-color: rgb(0, 0, 0);
 }
